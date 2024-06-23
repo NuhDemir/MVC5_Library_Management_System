@@ -1,0 +1,116 @@
+﻿@using MVCKutuphane.Models.Entity
+@model List<TBLKITAP>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/Layout.cshtml";
+}
+<style>
+    /*search-bar*/
+    .form {
+        position: relative;
+    }
+
+        .form .fa-search {
+            position: absolute;
+            top: 20px;
+            left: 20px;
+            color: #9ca3af;
+        }
+
+        .form span {
+            position: absolute;
+            right: 17px;
+            top: 13px;
+            padding: 2px;
+            border-left: 1px solid #d1d5db;
+        }
+
+    .left-pan {
+        padding-left: 7px;
+    }
+
+        .left-pan i {
+            padding-left: 10px;
+        }
+
+    .form-input {
+        height: 55px;
+        text-indent: 33px;
+        border-radius: 10px;
+    }
+
+        .form-input:focus {
+            box-shadow: none;
+            border: none;
+        }
+
+    .input-group {
+        display: flex;
+        justify-content: flex-end;
+    }
+    /**-----------------------------------------------------*/
+</style>
+
+
+@using (Html.BeginForm("Index", "Kitap", FormMethod.Get))
+{
+
+    <div style="margin-bottom:15px; margin-top:15px;">
+
+        <div class=" ">
+
+            <div class="col-md-6">
+
+                <div class="container">
+                    <div class="">
+                        <div class="col-md-6">
+                            <div class="input-group">
+                                @Html.TextBox("p", null, new { @class = "form-control form-input", placeholder = "Search anything..." })
+                                <button type="submit" class="btn btn-success">Ara</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+
+}
+
+
+<table class="table table-striped">
+    <tr>
+        <td>ID</td>
+        <td>Kitap Adı</td>
+        <td>Kitap Yazarı</td>
+        <td>Kategorisi</td>
+        <td>Basım Yılı</td>
+        <td>YayınEvi</td>
+        <td>Sayfa</td>
+        <td>Durum</td>
+        <td>Sil</td>
+        <td>Güncelle</td>
+    </tr>
+
+    @foreach (var k in Model)
+    {
+        <tr>
+            <td>@k.ID</td>
+            <td>@k.AD</td>
+            <td>@k.TBLYAZAR.AD&nbsp; @k.TBLYAZAR.SOYAD</td>
+            <td>@k.TBLKATEGORI.AD</td>
+            <td>@k.BASIMYIL</td>
+            <td>@k.YAYINEVI</td>
+            <td>@k.SAYFA</td>
+            <td>@k.DURUM</td>
+            <td><a href="/Kitap/KitapSil/@k.ID" class="btn btn-danger">Sil</a></td>
+            <td class="d-grid"><a href="/Kitap/KitapGetir/@k.ID" class="btn btn-primary">Güncelle</a></td>
+        </tr>
+    }
+</table>
+
+<a href="/Kitap/KitapEkle" class="btn btn-primary">Yeni Kitap Ekle</a>
+
+
