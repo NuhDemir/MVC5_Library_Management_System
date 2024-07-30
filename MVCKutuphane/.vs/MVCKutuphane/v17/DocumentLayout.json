@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EvAn\\Desktop\\Github\\WEB\\MVC5_Library_Management_System\\MVCKutuphane\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7690434F-2855-4BBC-8D9D-F700E3814B0A}|MVCKutuphane\\MVCKutuphane.csproj|c:\\users\\evan\\desktop\\github\\web\\mvc5_library_management_system\\mvckutuphane\\mvckutuphane\\views\\personel\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7690434F-2855-4BBC-8D9D-F700E3814B0A}|MVCKutuphane\\MVCKutuphane.csproj|solutionrelative:mvckutuphane\\views\\personel\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7690434F-2855-4BBC-8D9D-F700E3814B0A}|MVCKutuphane\\MVCKutuphane.csproj|c:\\users\\evan\\desktop\\github\\web\\mvc5_library_management_system\\mvckutuphane\\mvckutuphane\\views\\kategori\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7690434F-2855-4BBC-8D9D-F700E3814B0A}|MVCKutuphane\\MVCKutuphane.csproj|solutionrelative:mvckutuphane\\views\\kategori\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7690434F-2855-4BBC-8D9D-F700E3814B0A}|MVCKutuphane\\MVCKutuphane.csproj|C:\\Users\\EvAn\\Desktop\\Github\\WEB\\MVC5_Library_Management_System\\MVCKutuphane\\mvckutuphane\\models\\entity\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7690434F-2855-4BBC-8D9D-F700E3814B0A}|MVCKutuphane\\MVCKutuphane.csproj|solutionrelative:mvckutuphane\\models\\entity\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7690434F-2855-4BBC-8D9D-F700E3814B0A}|MVCKutuphane\\MVCKutuphane.csproj|C:\\Users\\EvAn\\Desktop\\Github\\WEB\\MVC5_Library_Management_System\\MVCKutuphane\\mvckutuphane\\views\\faq\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7690434F-2855-4BBC-8D9D-F700E3814B0A}|MVCKutuphane\\MVCKutuphane.csproj|solutionrelative:mvckutuphane\\views\\faq\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7690434F-2855-4BBC-8D9D-F700E3814B0A}|MVCKutuphane\\MVCKutuphane.csproj|C:\\Users\\EvAn\\Desktop\\Github\\WEB\\MVC5_Library_Management_System\\MVCKutuphane\\mvckutuphane\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7690434F-2855-4BBC-8D9D-F700E3814B0A}|MVCKutuphane\\MVCKutuphane.csproj|solutionrelative:mvckutuphane\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7690434F-2855-4BBC-8D9D-F700E3814B0A}|MVCKutuphane\\MVCKutuphane.csproj|C:\\Users\\EvAn\\Desktop\\Github\\WEB\\MVC5_Library_Management_System\\MVCKutuphane\\mvckutuphane\\views\\kategori\\kategoriekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7690434F-2855-4BBC-8D9D-F700E3814B0A}|MVCKutuphane\\MVCKutuphane.csproj|solutionrelative:mvckutuphane\\views\\kategori\\kategoriekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7690434F-2855-4BBC-8D9D-F700E3814B0A}|MVCKutuphane\\MVCKutuphane.csproj|C:\\Users\\EvAn\\Desktop\\Github\\WEB\\MVC5_Library_Management_System\\MVCKutuphane\\mvckutuphane\\views\\deneme\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7690434F-2855-4BBC-8D9D-F700E3814B0A}|MVCKutuphane\\MVCKutuphane.csproj|solutionrelative:mvckutuphane\\views\\deneme\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7690434F-2855-4BBC-8D9D-F700E3814B0A}|MVCKutuphane\\MVCKutuphane.csproj|C:\\Users\\EvAn\\Desktop\\Github\\WEB\\MVC5_Library_Management_System\\MVCKutuphane\\mvckutuphane\\controllers\\denemecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7690434F-2855-4BBC-8D9D-F700E3814B0A}|MVCKutuphane\\MVCKutuphane.csproj|solutionrelative:mvckutuphane\\controllers\\denemecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\EvAn\\Desktop\\Github\\WEB\\MVC5_Library_Management_System\\MVCKutuphane\\MVCKutuphane\\Views\\Personel\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCKutuphane\\Views\\Personel\\Index.cshtml",
+              "ToolTip": "C:\\Users\\EvAn\\Desktop\\Github\\WEB\\MVC5_Library_Management_System\\MVCKutuphane\\MVCKutuphane\\Views\\Personel\\Index.cshtml",
+              "RelativeToolTip": "MVCKutuphane\\Views\\Personel\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-30T12:19:41.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Model1.Context.cs",
+              "DocumentMoniker": "C:\\Users\\EvAn\\Desktop\\Github\\WEB\\MVC5_Library_Management_System\\MVCKutuphane\\MVCKutuphane\\Models\\Entity\\Model1.Context.cs",
+              "RelativeDocumentMoniker": "MVCKutuphane\\Models\\Entity\\Model1.Context.cs",
+              "ToolTip": "C:\\Users\\EvAn\\Desktop\\Github\\WEB\\MVC5_Library_Management_System\\MVCKutuphane\\MVCKutuphane\\Models\\Entity\\Model1.Context.cs",
+              "RelativeToolTip": "MVCKutuphane\\Models\\Entity\\Model1.Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAUwBIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T11:34:52.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "View.cshtml",
+              "DocumentMoniker": "C:\\Users\\EvAn\\Desktop\\Github\\WEB\\MVC5_Library_Management_System\\MVCKutuphane\\MVCKutuphane\\Views\\FAQ\\View.cshtml",
+              "RelativeDocumentMoniker": "MVCKutuphane\\Views\\FAQ\\View.cshtml",
+              "ToolTip": "C:\\Users\\EvAn\\Desktop\\Github\\WEB\\MVC5_Library_Management_System\\MVCKutuphane\\MVCKutuphane\\Views\\FAQ\\View.cshtml",
+              "RelativeToolTip": "MVCKutuphane\\Views\\FAQ\\View.cshtml",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-30T11:34:44.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\EvAn\\Desktop\\Github\\WEB\\MVC5_Library_Management_System\\MVCKutuphane\\MVCKutuphane\\Views\\Kategori\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCKutuphane\\Views\\Kategori\\Index.cshtml",
+              "ToolTip": "C:\\Users\\EvAn\\Desktop\\Github\\WEB\\MVC5_Library_Management_System\\MVCKutuphane\\MVCKutuphane\\Views\\Kategori\\Index.cshtml",
+              "RelativeToolTip": "MVCKutuphane\\Views\\Kategori\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-30T11:25:11.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\EvAn\\Desktop\\Github\\WEB\\MVC5_Library_Management_System\\MVCKutuphane\\MVCKutuphane\\Web.config",
+              "RelativeDocumentMoniker": "MVCKutuphane\\Web.config",
+              "ToolTip": "C:\\Users\\EvAn\\Desktop\\Github\\WEB\\MVC5_Library_Management_System\\MVCKutuphane\\MVCKutuphane\\Web.config",
+              "RelativeToolTip": "MVCKutuphane\\Web.config",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-30T11:24:04.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "KategoriEkle.cshtml",
+              "DocumentMoniker": "C:\\Users\\EvAn\\Desktop\\Github\\WEB\\MVC5_Library_Management_System\\MVCKutuphane\\MVCKutuphane\\Views\\Kategori\\KategoriEkle.cshtml",
+              "RelativeDocumentMoniker": "MVCKutuphane\\Views\\Kategori\\KategoriEkle.cshtml",
+              "ToolTip": "C:\\Users\\EvAn\\Desktop\\Github\\WEB\\MVC5_Library_Management_System\\MVCKutuphane\\MVCKutuphane\\Views\\Kategori\\KategoriEkle.cshtml",
+              "RelativeToolTip": "MVCKutuphane\\Views\\Kategori\\KategoriEkle.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-30T11:22:15.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\EvAn\\Desktop\\Github\\WEB\\MVC5_Library_Management_System\\MVCKutuphane\\MVCKutuphane\\Views\\Deneme\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVCKutuphane\\Views\\Deneme\\Create.cshtml",
+              "ToolTip": "C:\\Users\\EvAn\\Desktop\\Github\\WEB\\MVC5_Library_Management_System\\MVCKutuphane\\MVCKutuphane\\Views\\Deneme\\Create.cshtml",
+              "RelativeToolTip": "MVCKutuphane\\Views\\Deneme\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-30T11:21:05.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DenemeController.cs",
+              "DocumentMoniker": "C:\\Users\\EvAn\\Desktop\\Github\\WEB\\MVC5_Library_Management_System\\MVCKutuphane\\MVCKutuphane\\Controllers\\DenemeController.cs",
+              "RelativeDocumentMoniker": "MVCKutuphane\\Controllers\\DenemeController.cs",
+              "ToolTip": "C:\\Users\\EvAn\\Desktop\\Github\\WEB\\MVC5_Library_Management_System\\MVCKutuphane\\MVCKutuphane\\Controllers\\DenemeController.cs",
+              "RelativeToolTip": "MVCKutuphane\\Controllers\\DenemeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T11:20:34.863Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
