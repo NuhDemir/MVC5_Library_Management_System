@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\EvAn\\Desktop\\Github\\WEB\\MVC5_Library_Management_System\\MVCKutuphane\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7690434F-2855-4BBC-8D9D-F700E3814B0A}|MVCKutuphane\\MVCKutuphane.csproj|c:\\users\\evan\\desktop\\github\\web\\mvc5_library_management_system\\mvckutuphane\\mvckutuphane\\views\\personel\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7690434F-2855-4BBC-8D9D-F700E3814B0A}|MVCKutuphane\\MVCKutuphane.csproj|solutionrelative:mvckutuphane\\views\\personel\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7690434F-2855-4BBC-8D9D-F700E3814B0A}|MVCKutuphane\\MVCKutuphane.csproj|C:\\Users\\EvAn\\Desktop\\Github\\WEB\\MVC5_Library_Management_System\\MVCKutuphane\\mvckutuphane\\views\\kategori\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7690434F-2855-4BBC-8D9D-F700E3814B0A}|MVCKutuphane\\MVCKutuphane.csproj|solutionrelative:mvckutuphane\\views\\kategori\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7690434F-2855-4BBC-8D9D-F700E3814B0A}|MVCKutuphane\\MVCKutuphane.csproj|c:\\users\\evan\\desktop\\github\\web\\mvc5_library_management_system\\mvckutuphane\\mvckutuphane\\views\\kategori\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7690434F-2855-4BBC-8D9D-F700E3814B0A}|MVCKutuphane\\MVCKutuphane.csproj|solutionrelative:mvckutuphane\\views\\kategori\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7690434F-2855-4BBC-8D9D-F700E3814B0A}|MVCKutuphane\\MVCKutuphane.csproj|C:\\Users\\EvAn\\Desktop\\Github\\WEB\\MVC5_Library_Management_System\\MVCKutuphane\\mvckutuphane\\views\\kategori\\kategoriekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7690434F-2855-4BBC-8D9D-F700E3814B0A}|MVCKutuphane\\MVCKutuphane.csproj|solutionrelative:mvckutuphane\\views\\kategori\\kategoriekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7690434F-2855-4BBC-8D9D-F700E3814B0A}|MVCKutuphane\\MVCKutuphane.csproj|c:\\users\\evan\\desktop\\github\\web\\mvc5_library_management_system\\mvckutuphane\\mvckutuphane\\views\\personel\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7690434F-2855-4BBC-8D9D-F700E3814B0A}|MVCKutuphane\\MVCKutuphane.csproj|solutionrelative:mvckutuphane\\views\\personel\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7690434F-2855-4BBC-8D9D-F700E3814B0A}|MVCKutuphane\\MVCKutuphane.csproj|C:\\Users\\EvAn\\Desktop\\Github\\WEB\\MVC5_Library_Management_System\\MVCKutuphane\\mvckutuphane\\models\\entity\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7690434F-2855-4BBC-8D9D-F700E3814B0A}|MVCKutuphane\\MVCKutuphane.csproj|C:\\Users\\EvAn\\Desktop\\Github\\WEB\\MVC5_Library_Management_System\\MVCKutuphane\\mvckutuphane\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{7690434F-2855-4BBC-8D9D-F700E3814B0A}|MVCKutuphane\\MVCKutuphane.csproj|solutionrelative:mvckutuphane\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7690434F-2855-4BBC-8D9D-F700E3814B0A}|MVCKutuphane\\MVCKutuphane.csproj|C:\\Users\\EvAn\\Desktop\\Github\\WEB\\MVC5_Library_Management_System\\MVCKutuphane\\mvckutuphane\\views\\kategori\\kategoriekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7690434F-2855-4BBC-8D9D-F700E3814B0A}|MVCKutuphane\\MVCKutuphane.csproj|solutionrelative:mvckutuphane\\views\\kategori\\kategoriekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7690434F-2855-4BBC-8D9D-F700E3814B0A}|MVCKutuphane\\MVCKutuphane.csproj|C:\\Users\\EvAn\\Desktop\\Github\\WEB\\MVC5_Library_Management_System\\MVCKutuphane\\mvckutuphane\\views\\deneme\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -42,24 +42,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\EvAn\\Desktop\\Github\\WEB\\MVC5_Library_Management_System\\MVCKutuphane\\MVCKutuphane\\Views\\Personel\\Index.cshtml",
               "RelativeDocumentMoniker": "MVCKutuphane\\Views\\Personel\\Index.cshtml",
               "ToolTip": "C:\\Users\\EvAn\\Desktop\\Github\\WEB\\MVC5_Library_Management_System\\MVCKutuphane\\MVCKutuphane\\Views\\Personel\\Index.cshtml",
               "RelativeToolTip": "MVCKutuphane\\Views\\Personel\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-30T12:19:41.425Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Model1.Context.cs",
               "DocumentMoniker": "C:\\Users\\EvAn\\Desktop\\Github\\WEB\\MVC5_Library_Management_System\\MVCKutuphane\\MVCKutuphane\\Models\\Entity\\Model1.Context.cs",
               "RelativeDocumentMoniker": "MVCKutuphane\\Models\\Entity\\Model1.Context.cs",
@@ -71,7 +71,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "View.cshtml",
               "DocumentMoniker": "C:\\Users\\EvAn\\Desktop\\Github\\WEB\\MVC5_Library_Management_System\\MVCKutuphane\\MVCKutuphane\\Views\\FAQ\\View.cshtml",
               "RelativeDocumentMoniker": "MVCKutuphane\\Views\\FAQ\\View.cshtml",
@@ -83,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\EvAn\\Desktop\\Github\\WEB\\MVC5_Library_Management_System\\MVCKutuphane\\MVCKutuphane\\Views\\Kategori\\Index.cshtml",
               "RelativeDocumentMoniker": "MVCKutuphane\\Views\\Kategori\\Index.cshtml",
@@ -96,7 +96,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Web.config",
               "DocumentMoniker": "C:\\Users\\EvAn\\Desktop\\Github\\WEB\\MVC5_Library_Management_System\\MVCKutuphane\\MVCKutuphane\\Web.config",
               "RelativeDocumentMoniker": "MVCKutuphane\\Web.config",
@@ -109,7 +109,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "KategoriEkle.cshtml",
               "DocumentMoniker": "C:\\Users\\EvAn\\Desktop\\Github\\WEB\\MVC5_Library_Management_System\\MVCKutuphane\\MVCKutuphane\\Views\\Kategori\\KategoriEkle.cshtml",
               "RelativeDocumentMoniker": "MVCKutuphane\\Views\\Kategori\\KategoriEkle.cshtml",
@@ -117,7 +117,8 @@
               "RelativeToolTip": "MVCKutuphane\\Views\\Kategori\\KategoriEkle.cshtml",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-30T11:22:15.931Z"
+              "WhenOpened": "2024-07-30T11:22:15.931Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
